@@ -45,7 +45,7 @@ function Hotels() {
                         </div>
 
                         <div className="container">
-                            <img src={image} width="500px" />
+                            <img src={image} width="500px" alt="hotel"/>
                         </div>
 
                         <div className="container">

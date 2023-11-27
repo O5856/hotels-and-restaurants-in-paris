@@ -32,7 +32,7 @@ function Restaurant() {
             </div>
 
             <div className="container">
-                <img src={image} width="600px"/>
+                <img src={image} width="600px" alt="resto"/>
             </div>
 
             <div className="container">
